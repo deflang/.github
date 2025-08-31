@@ -13,12 +13,12 @@ Your intelligence layer for [web3](https://web3.foundation)
 <h3 align="center">Welcome to Deflang</h3>
 
 <p align="center">
-  We are creating Firebase for web3 layer.
+  We are creating Firebase for the web3 layer.
 </p>
 
 ---
 
-## What is Deflang ?
+## What is Deflang?
 
 Deflang is focused on reimagining how developers interact with blockchains by replacing RPCs, ABIs, and indexers with natural language.
 
